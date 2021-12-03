@@ -1,0 +1,10 @@
+what makes for good code comments?
+In general, I think a code comment should help improve readability of said code
+so someone who is not the author can understand what is going on when looking
+at the code. Good comments also help the author organize their thoughts when 
+writing a code and may help segment a large code into smaller sections,
+making it easier to find a specific spot in the code.
+When writing code, I like to first make comments of the overall objectives of
+the assignment defined by assingment information.
+For example, when creating a class, I use comments to specify constructors, mutators, operators, etc.
+I also find comments useful above loops, to show what the purpose of the loop is. This principle applies to many other concepts besides loops. 
