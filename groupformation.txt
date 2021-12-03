@@ -1,0 +1,6 @@
+Things to do when (asynchronously) working in a CSIS group
+1.) administrator: create group repository to easily share files between members and keep each other updated on progress.
+2.) documenter: responsible for checking on the correctness of the documentation standards of the project once completed (README, naming conventions, etc)
+3.) debugger: responsible for debugging code, as well as testing code and finding possible issues in said code.
+
+For our asynchronous group, LucasCB and GarretH, these roles were used interchangeably, as we would write our own work, and check each others once completed.
