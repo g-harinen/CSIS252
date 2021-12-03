@@ -4,3 +4,11 @@ Things to do when (asynchronously) working in a CSIS group
 3.) debugger: responsible for debugging code, as well as testing code and finding possible issues in said code.
 
 For our asynchronous group, LucasCB and GarretH, these roles were used interchangeably, as we would write our own work, and check each others once completed.
+
+Here are things that we might change from the document:
+
+For starters this is a long list of many roles and certainly we would often work in smaller groups so many people would have multiple roles and I think that is something important to point out particularly because there are a few roles on this list that everyone should be doing anyway. Because of that I think the Component Expert should be deleted because that is something we should all be assumed to be in a group project regarding computer science.
+
+Many of the roles are also in positions that would require collaboration from the group as you could not just have someone diagramming completely independently for the sake of the group, so I think the wording in the document could be rewritten to show that as opposed to how it is now because it makes it seem as though someone would be doing somethig independently as opposed to leading a discussion on what they are doing to collaborate.
+
+
