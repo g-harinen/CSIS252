@@ -1,15 +1,10 @@
-# CSIS 252 - Assignment 8
-# Makefile prog8
-# 12-1-2021
-# makefile to handle details of compiling
-# uses prog8 to execute
-OBJECTS = main.o altuve.o
-
-EXE = prog8
+###Example of a makefile
+###Lucas Clark Burnette
+EXE = prog
 
 CC = g++
 
-OBJECTS = main.o
+OBJECTS = main.o sampleclass.o
 
 LFLAGS =
 
@@ -18,12 +13,13 @@ CFLAGS =
 $(EXE):         $(OBJECTS)
                 $(CC) $(CFLAGS) -o $(EXE) $(OBJECTS) $(LFLAGS)
 
-main.o:         main.cpp
+main.o:         main.cpp sampleclass.h
                 $(CC) $(CFLAGS) -c main.cpp
-sumList.o:      sumList.cpp
-                $(CC) $(CFlags) -c altuve.cpp
+
+sampleclass.o:     sampleclass.cpp sampleclass.h
+                        $(CC) -c $(CFLAGS) sampleclass.cpp
 
 
+clean: 
+		rm -rf $(EXE) $(OBJECTS) *~
 
-clean:
-                rm -rf $(EXE) $(OBJECTS) *~
