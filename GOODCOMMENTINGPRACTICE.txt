@@ -14,4 +14,5 @@ I also find comments useful above loops, to show what the purpose of the loop is
 I have also used comments to help keep track of variables in my code because changing variables often can make it difficult to keep track of their value
 and comments can both identify a variables value and allow for them to be spotted easeier in code.
 
-
+Overall, good code comments need to be able to make the code readable for other people and yourself, 
+but from there it is up to youto make your code easier for you to work with for your own preferences.
